@@ -30,11 +30,11 @@
         "pear/pear_exception": "*"
     },
     "suggest": {
-        "pear/Console_Color2": ">=0.1.2"
+        "pear/console_color2": "Install optionally via your project's composer.json"
     },
     "autoload": {
         "classmap": [
-            "Table.php"
+            "./"
         ]
     },
     "support": {
